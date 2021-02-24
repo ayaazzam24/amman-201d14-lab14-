@@ -13,9 +13,6 @@
 * then we search in the internet for a long time to find the solution finally after ***3 hours***.
 * this take a long time ***(Almost 6 hours)*** to finish the two (app.js & catalog.js) and we faced some internet connections to each others.
 * The starter code needs a lot of time ***to be familier with it*** then we start giving ideas and solve the problems.
-white_check_mark
-eyes
-raised_hands::skin-tone-6
 
 
 
